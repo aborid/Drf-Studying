@@ -74,7 +74,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'muxi_shop_api2.urls'
-
+# 我想说 阳明心学
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
