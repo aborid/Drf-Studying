@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/apps/address/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apps/cart/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apps/comment/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apps/goods/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apps/order/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apps/user/models.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
